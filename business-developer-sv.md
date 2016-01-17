@@ -34,6 +34,6 @@ starka kundupplevelser som lever vidare.
 - Har goda kunskaper i Engelska.
 - Är duktig på att bygga relationer och har en vilja att göra allt för att förstå kundens behov.
 - Har ett strategiskt tänkande och brinner för att bidra med effektiva lösningar till kunden.
-- Är starkt drivande och kan motivera sig själv att ta egna beslut.
-- Är en teamspelare som kan leda en säljprocess utan att alltid veta bäst själv.
-- Trivs i en miljö med högt i tak och snabba beslut.
+- Är starkt drivande och kan motivera sig själv att ta egna beslut.
+- Är en teamspelare som kan leda en säljprocess utan att alltid veta bäst själv.
+- Trivs i en miljö med högt i tak och snabba beslut.
