@@ -7,7 +7,7 @@ passionerade medarbetare? Vill du vara med och ta fram affärsnyttiga
 användarupplevelser för kunder och vidareutveckla vårt erbjudande? Vill du
 arbeta både med nykundsbearbetning och vidareutveckling av befintliga kunder?
 
-Trifork har funits i Stockholm sedan 2012 och blir våran 9:e medarbetare på
+Trifork har funnits i Stockholm sedan 2012 och du blir våran 10:e medarbetare på
 kontoret i Gamla Stan.
 
 ## Vi erbjuder dig
