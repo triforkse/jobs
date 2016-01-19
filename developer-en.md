@@ -7,4 +7,4 @@ Stockholm
 
 ## We believe you
 
-- Have an accademic background.
+- Have an academic background.
