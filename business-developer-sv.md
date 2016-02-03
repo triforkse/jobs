@@ -8,7 +8,8 @@ användarupplevelser för kunder och vidareutveckla vårt erbjudande? Vill du
 arbeta både med nykundsbearbetning och vidareutveckling av befintliga kunder?
 
 Trifork har funnits i Stockholm sedan 2012 och du blir våran 10:e medarbetare på
-kontoret i Gamla Stan.
+kontoret i Gamla Stan. Globalt är Trifork är ett företag i stor växt med ca. 400
+medarbetare. De senaste åren har Triforks omsättning växt 30% i per år.
 
 ## Vi erbjuder dig
 
