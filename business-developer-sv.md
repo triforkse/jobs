@@ -17,8 +17,8 @@ Ett företag i stark förändring som arbetar med roliga och omväxlande projekt
 inom modern teknik och design. Vi på Trifork tar alltid avstamp i användarnas
 upplevelse och värdesätter enkla och eleganta lösningar. Vår arbetsmiljö är
 dynamisk och prestigelös med mycket frihet. Vi har ett enormt affärsnätvärk
-värden över, och har bra kontakt med stora namn innom industrien gennom våra
-GOTO; utväklare konferancer. 
+värden över, och har bra kontakt med stora namn inom industrin genom våra
+GOTO; utvecklarkonferenser. 
 
 Våra utvecklare är professionella, nyfikna och har en utmärkande passion för
 digitala lösningar. Våra uppdrag och kunder är varierande och vi möter behoven
@@ -29,7 +29,7 @@ starka kundupplevelser som lever vidare.
 
 - Har akademisk bakgrund.
 - Har flera års försäljningserfarenhet av rådgivning,
-  åtaganden och lösningar inom web och/eller IT och arbetar som Affärsutvecklare,
+  åtaganden och lösningar inom webb och/eller IT och arbetar som Affärsutvecklare,
   Key Account Manager, Konsultchef eller motsvarande.
 - Har stort intresse för web och digitala utvecklingsprojekt, gärna digital marknadsföring.
 - Har goda kunskaper i Engelska.
