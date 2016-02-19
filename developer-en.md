@@ -43,7 +43,7 @@ We have worked with Clojure, ClojureScript, Elixir, Elm, Scala, Java, JavaScript
 
 You will also join for our annual ski-trip to the Alps and our international developer conferences with over 5000 annual attendees. If you wish you can even become part of our Conference Program Committee, where you help choose topics and speakers for our GOTO Developer Conferences across the world (http://gotosthlm.com/). 
 
-## Nice to haves (NO REQUIREMENTS)
+## Nice to haves (NOT REQUIREMENTS)
 
 - An estetical sense - since most of our project also have GUIs used by end-users.
 - Previous experince with Functional Programming is great.
