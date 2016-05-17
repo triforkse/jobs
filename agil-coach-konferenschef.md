@@ -26,7 +26,6 @@ Ta en titt på våran hemsida (http://trifork.se/jobs) för mer information och 
 - **Team-baserad utveckling.** Vi väljer rätt teknologi baserad på projektets krav och beslut av vårt team.
 - **Arbete och privatliv.** Vi är väl medvetna om att du har ett liv utanför arbetet och att ditt privatliv kommer först.
 
-----
 ### Om jobbet
 
 Vi vill att våra medarbetare växer både individuellt och professionellt.
