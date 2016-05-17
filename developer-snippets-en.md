@@ -50,10 +50,10 @@ We have interest groups, that every week use some time to work on side projects,
 
 ## About our work (general)
 
-- **Projects.** We work in-house with external projects for our customers. No consulting, body-shopping. We do several projects per year.
+- **Projects.** We work in-house with external projects for our customers. No body-shopping. We do several projects per year.
 - **Teambased development.** We choose the right technology based on project demands and team decisions.
-- **Work life balance.** We are very aware that you have a life outside of work and that your family comes first.
-- **Pair programming.** We believe that two pairs of hands are better than one, and the quality of the code is more impotant that the quantity!
+- **Work life balance.** We are very aware that you have a life outside of work and that your personal life comes first.
+- **Pair programming.** We believe that two pairs of eyes are better than one, and the quality of the code is more important than the quantity!
 - **Interest groups.** We take time every week to work on side projects, like e.g. a DevOps Interest Group working on Docker Swarm servers and monitoring systems.
 
 ## Postscript
