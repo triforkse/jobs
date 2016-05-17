@@ -33,15 +33,15 @@ quality of our projects.
 - **Agile mindset.** You favor working in small autonomous teams where you can impact the course of action.
 - **A driving force.** You are not afraid of driving a topic for the benefit of yourself and the team.
 - **People over process.** You believe in communications with your peers to reach a collective goal.
-- **Curiousity.** You love exploring, learning and sharing new technology.
-- **Problem solver.** You are someone who aren't afraid of solving a problem outside your main area of expertize.
-
+- **Curiosity.** You love exploring, learning and sharing new technology.
+- **Problem solver.** You are someone who aren't afraid of solving a problem outside your main area of expertise.
+- 
 ### About us
 
 - **Projects.** We work in-house with external projects for our customers. We don't do body-shopping. We do several projects per year.
 - **Team-based development.** We choose the right technology based on project demands and team decisions.
 - **Work life balance.** We are very aware that you have a life outside of work and that your family comes first.
-- **Pair programming.** We believe that two pairs of hands are better than one, and the quality of the code is more impotant that the quantity!
+- **Pair programming.** We believe that two pairs of hands are better than one, and the quality of the code is more important that the quantity!
 - **Interest groups.** We take time every week to work on side projects, like e.g. a DevOps Interest Group working on Docker Swarm servers and monitoring systems.
 
 ----
