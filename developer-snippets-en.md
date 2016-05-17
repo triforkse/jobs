@@ -45,8 +45,8 @@ We have interest groups, that every week use some time to work on side projects,
 - **Agile mindset.** You favor working in small autonomous teams where you can impact the course of action.
 - **A driving force.** You are not afraid of driving a topic for the benefit of yourself and the team.
 - **People over process.** You believe in communications with your peers to reach a collective goal.
-- **Curiousity.** You love exploring, learning and sharing new technology.
-- **Problem solver.** You are someone who aren't afraid of solving a problem outside your main area of expertize.
+- **Curiosity.** You love exploring, learning and sharing new technology.
+- **Problem solver.** You are someone who aren't afraid of solving a problem outside your main area of expertise.
 
 ## About our work (general)
 
