@@ -1,7 +1,7 @@
 ## Software Developer
 **Stockholm**
 
-Trifork is a leading IT company that is working with cutting edge technologies and programming languages. We create unique applications for hundreds of business customers across Europe and North America. We work with are very focused on continuously improving ourselves, our teams and the way we work. We do full-stack software solutions for our customers, and work with everything from Mesos, Docker, React and Elixir. Every day over 2.000.000 people use our software, to do their mobile money transactions, shopping or their daily work. We develop software for every platform - Desktop, Web, Android, iOS, Distributed Systems, etc.
+Trifork is a leading IT company that is working with cutting edge technologies and programming languages. We create unique applications for hundreds of business customers across Europe and North America. We work with and are very focused on continuously improving ourselves, our teams and the way we work. We do full-stack software solutions for our customers, and work with everything from Riak, Docker, React and Elixir. Every day over 2.000.000 people use our software, to do their mobile money transactions, shopping or their daily work. We develop software for every platform - Desktop, Web, Android, iOS, Distributed Systems, etc.
 
 If you love programming, like technical challenges, and want to share your knowledge with you team mates, then we would like to talk to you!
 
