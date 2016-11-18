@@ -17,7 +17,7 @@ Please check out our website (http://trifork.se/jobs) for more information and a
 
 You will be working primarily on infrastructure and backend-applications. At Trifork we don't believe that any developer
 should restrict themselves to any one technology. The way we create applications is changing with the move to the Cloud,
-the classical roles of Developer / Operations are also slowly, but surly, merging. With the
+the classical roles of Developer / Operations are also slowly, but surely, merging. With the
 advent of IoT and applications at scale in general, programmable infrastructure and backend-less services are becoming
 more and more normal. Trifork is using technologies like Mesos, Docker, Terraform, Nomad, Docker Swarm and similar to compat
 the new demands and complexities. You will be helping us guide the evolution and will have
