@@ -16,7 +16,7 @@ Please check out our website (http://trifork.se/jobs) for more information and a
 ### About the job
 
 As a full-stack developer you must be able to handle the every task involved in implementing new features.
-Everything from the database to css, software archetecture to operations. You must be diverse, be able to
+Everything from the database to css, software architecture to operations. You must be diverse, be able to
 quickly pick up new technologies and languages and know when to use what. The job involves working on several
 interesting projects at a time, and the kind of project will vary greatly. Our company values automation,
 clean code, and testability highly.
