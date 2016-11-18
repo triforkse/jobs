@@ -65,12 +65,12 @@ You will also join for our annual ski-trip to the Alps and our international dev
 
 ## Nice to haves (NOT REQUIREMENTS)
 
-- An estetical sense - since most of our project also have GUIs used by end-users.
+- A sense of aesthetics - since most of our project also have GUIs used by end-users.
 - Previous experince with Functional Programming is great.
 - Having worked in an agile environment.
-- 3D and 2D graphics programming, like Unity3D or HTML5 Canvas experince.
+- 3D and 2D graphics programming, like Unity3D or HTML5 Canvas experience.
 - Docker / Mesos / Kubernetes experience
 - Experience with build servers like Jenkins, Travis, GitLab CI
-- Like to Teach others what you know
+- Like to teach others what you know
 - Like to plan and take part in meetups
 - If you are interested in sales and is a very social person, our developers are the best sales people we have.
